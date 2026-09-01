@@ -44,7 +44,7 @@ employer = "Emeryville Today"      # Where you work, intern, or freelance most
 #   "signal"     – huge bold headline, then a bright yellow band
 #   "harbor"     – deep teal with a portrait sidebar and serif type
 
-template = "byline"
+template = "newsprint"
 
 # ── How people reach you ────────────────────────────────────
 
