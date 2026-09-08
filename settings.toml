@@ -188,9 +188,9 @@ footer = ""
 # ============================================================
 
 [colors]
-accent = "40260F"       # e.g. "#c9401a"  (find codes at htmlcolorcodes.com)
-background = "8F7559"   # e.g. "#fffdf5"
-text = "F7E3D0"         # e.g. "#222222"
+accent = ""       # e.g. "#c9401a"  (find codes at htmlcolorcodes.com)
+background = ""   # e.g. "#fffdf5"
+text = ""         # e.g. "#222222"
 
 [fonts]
 # Any font from fonts.google.com — just write its name.
