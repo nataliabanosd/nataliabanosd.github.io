@@ -65,7 +65,7 @@ phone = ""                          # e.g. "(510) 555-0123" — or leave empty
 # file's name here.
 
 banner_photo = "media/banner.jpg"   # A portrait or banner photo of you
-resume = "media/Resume - Natalia Baños Delgado (1).pdf"         # A PDF of your resume (adds a Resume button)
+resume = "media/Resume"         # A PDF of your resume (adds a Resume button)
 favicon = ""                        # Tiny browser-tab icon. Empty = made for you
 
 # ── About you ───────────────────────────────────────────────
