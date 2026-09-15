@@ -64,8 +64,8 @@ phone = ""                          # e.g. "(510) 555-0123" — or leave empty
 # Upload files to the "media" folder on GitHub, then write the
 # file's name here.
 
-banner_photo = "media/banner.jpg"   # A portrait or banner photo of you
-resume = "media/professionalshot"         # A PDF of your resume (adds a Resume button)
+banner_photo = "media/professionalshot.jpeg"   # A portrait or banner photo of you
+resume = "media/resume"         # A PDF of your resume (adds a Resume button)
 favicon = ""                        # Tiny browser-tab icon. Empty = made for you
 
 # ── About you ───────────────────────────────────────────────
