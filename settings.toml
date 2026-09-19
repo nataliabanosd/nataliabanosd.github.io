@@ -44,7 +44,7 @@ employer = "Emeryville Today"      # Where you work, intern, or freelance most
 #   "signal"     – huge bold headline, then a bright yellow band
 #   "harbor"     – deep teal with a portrait sidebar and serif type
 
-template = "editorial"
+template = "newsprint"
 
 # ── How people reach you ────────────────────────────────────
 
@@ -75,7 +75,8 @@ favicon = ""                        # Tiny browser-tab icon. Empty = made for yo
 
 bio = """
 I'm a journalism student at UC Berkeley with a focus on multimedia
-storytelling. I grew up in Cartagena, Colombia.
+and data storytelling. I grew up in Cartagena, Colombia but love reporting that transcends
+borders. I'm a firm believer in empathy, truth and justice.
 """
 
 # Optional extra line at the bottom of every page.
