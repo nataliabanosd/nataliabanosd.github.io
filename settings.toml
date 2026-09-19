@@ -101,6 +101,16 @@ footer = ""
 # ── Published stories: give them a url and they link out ────
 
 [[work]]
+title = "A Cult-ural Exchange"
+# description = ""
+url = "https://brownpoliticalreview.org/a-cult-ural-exchange/"
+# image = "media/politicalchameleons.jpg"
+date = "June 2026"
+category = "Journalism"
+outlet = "Brown Political Review"
+
+
+[[work]]
 title = "Political Chameleons in Latin America"
 description = "Latin American politics has a history of changing tides, from the pink tide to a resurgenece of conservatism, politicians have mastered the art of camouflage."
 url = "https://brownpoliticalreview.org/political-chameleons-in-latin-america/"
