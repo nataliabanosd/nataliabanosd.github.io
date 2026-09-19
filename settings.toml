@@ -99,14 +99,14 @@ footer = ""
 
 # ── Published stories: give them a url and they link out ────
 
-# [[work]]
-# title = "City Council approves protected bike lanes for Telegraph Avenue"
+[[work]]
+title = "Political Chameleons in Latin America"
 # description = "After a decade of debate and three hours of public comment, Berkeley's City Council voted 7–2 to build protected bike lanes along one of the city's busiest corridors."
-# url = "https://example.com/your-story-link-goes-here"
+url = "https://brownpoliticalreview.org/political-chameleons-in-latin-america/"
 # image = "media/work/bike-lanes.jpg"
-# date = "March 2026"
-# category = "Journalism"
-# outlet = "Berkeleyside"
+date = "March 2026"
+category = "Journalism"
+outlet = "Brown Political Review"
 
 # [[work]]
 # title = "The wells are running dry: a Central Valley town confronts its future"
