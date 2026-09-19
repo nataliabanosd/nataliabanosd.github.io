@@ -102,20 +102,10 @@ footer = ""
 
 [[work]]
 title = "A Cult-ural Exchange"
-# description = ""
+description = "A combination of low-capacity states in the Global South and ambiguity in cross-border prosecution create the perfect conditions for cults to export their teachings, leaving members isolated and vulnerable."
 url = "https://brownpoliticalreview.org/a-cult-ural-exchange/"
-# image = "media/politicalchameleons.jpg"
+image = "media/cults.jpg"
 date = "June 2026"
-category = "Journalism"
-outlet = "Brown Political Review"
-
-
-[[work]]
-title = "Political Chameleons in Latin America"
-description = "Latin American politics has a history of changing tides, from the pink tide to a resurgenece of conservatism, politicians have mastered the art of camouflage."
-url = "https://brownpoliticalreview.org/political-chameleons-in-latin-america/"
-image = "media/politicalchameleons.jpg"
-date = "March 2026"
 category = "Journalism"
 outlet = "Brown Political Review"
 
@@ -127,6 +117,15 @@ image = "media/universityhall.jpg"
 date = "December 2026"
 category = "Journalism"
 outlet = "The Brown Daily Herald"
+
+[[work]]
+title = "Political Chameleons in Latin America"
+description = "Latin American politics has a history of changing tides, from the pink tide to a resurgenece of conservatism, politicians have mastered the art of camouflage."
+url = "https://brownpoliticalreview.org/political-chameleons-in-latin-america/"
+image = "media/politicalchameleons.jpg"
+date = "March 2026"
+category = "Journalism"
+outlet = "Brown Political Review"
 
 [[work]]
 title = "A snapshot of sports game attendance at Brown"
