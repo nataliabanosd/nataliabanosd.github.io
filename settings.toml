@@ -102,30 +102,30 @@ footer = ""
 
 [[work]]
 title = "Political Chameleons in Latin America"
-# description = "After a decade of debate and three hours of public comment, Berkeley's City Council voted 7–2 to build protected bike lanes along one of the city's busiest corridors."
+description = "Latin American politics has a history of changing tides, from the pink tide to a resurgenece of conservatism, politicians have mastered the art of camouflage."
 url = "https://brownpoliticalreview.org/political-chameleons-in-latin-america/"
-# image = "media/work/bike-lanes.jpg"
+image = "media/politicalchameleons.jpg"
 date = "March 2026"
 category = "Journalism"
 outlet = "Brown Political Review"
 
-# [[work]]
-# title = "The wells are running dry: a Central Valley town confronts its future"
-# description = "In Teviston, families have watched their taps sputter for years. Now a state grant promises relief — but the water table keeps falling faster than the money arrives."
-# url = "https://example.com/your-story-link-goes-here"
+[[work]]
+title = "The data behind Brown’s highest governing body"
+description = "The Herald explored the career and educational backgrounds, composition and political activity of the Corporation’s members."
+url = "https://projects.browndailyherald.com/2025/11/06/corporation-by-the-numbers/"
 # image = "media/work/drought.jpg"
-# date = "January 2026"
-# category = "Journalism"
-# outlet = "The San Francisco Chronicle"
+date = "December 2026"
+category = "Journalism"
+outlet = "The Brown Daily Herald"
 
-# [[work]]
-# title = "As grocery prices climb, more Cal students turn to the campus food pantry"
-# description = "Visits to the UC Berkeley Food Pantry have doubled in two years. Students, staff and volunteers describe the quiet logistics of keeping shelves stocked."
-# url = "https://example.com/your-story-link-goes-here"
+[[work]]
+title = "A snapshot of sports game attendance at Brown"
+description = "The Herald’s Data Desk analyzed average game attendance data from fall 2021 to spring 2025 across 13 varsity sports."
+url = "https://projects.browndailyherald.com/2026/04/24/sports-attendance/"
 # image = "media/work/food-bank.jpg"
-# date = "November 2025"
-# category = "Journalism"
-# outlet = "The Daily Californian"
+date = "April 2026"
+category = "Journalism"
+outlet = "The Brown Daily Herald"
 
 # This one has no image on purpose — the site still handles it gracefully.
 # [[work]]
