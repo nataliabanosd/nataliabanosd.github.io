@@ -115,7 +115,7 @@ description = "The Herald explored the career and educational backgrounds, compo
 url = "https://projects.browndailyherald.com/2025/11/06/corporation-by-the-numbers/"
 image = "media/universityhall.jpg"
 date = "December 2026"
-category = "Journalism"
+category = "Data Journalism"
 outlet = "The Brown Daily Herald"
 
 [[work]]
@@ -133,7 +133,7 @@ description = "The Herald’s Data Desk analyzed average game attendance data fr
 url = "https://projects.browndailyherald.com/2026/04/24/sports-attendance/"
 image = "media/sports.jpg"
 date = "April 2026"
-category = "Journalism"
+category = "Data Journalism"
 outlet = "The Brown Daily Herald"
 
 # This one has no image on purpose — the site still handles it gracefully.
