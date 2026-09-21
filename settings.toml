@@ -44,7 +44,7 @@ employer = "Emeryville Today"      # Where you work, intern, or freelance most
 #   "signal"     – huge bold headline, then a bright yellow band
 #   "harbor"     – deep teal with a portrait sidebar and serif type
 
-template = "newsprint"
+template = "editorial"
 
 # ── How people reach you ────────────────────────────────────
 
@@ -106,6 +106,15 @@ description = "A combination of low-capacity states in the Global South and ambi
 url = "https://brownpoliticalreview.org/a-cult-ural-exchange/"
 image = "media/cults.png"
 date = "June 2026"
+category = "Journalism"
+outlet = "Brown Political Review"
+
+[[work]]
+title = "Grief as Resistance"
+description = "State crimes continue to haunt Colombia, and the mothers of victims continue to fight for justice"
+url = "https://brownpoliticalreview.org/grief-as-resistance-the-mothers-who-exposed-colombias-false-positives/"
+image = "media/falsospositivos.png"
+date = "November 2025"
 category = "Journalism"
 outlet = "Brown Political Review"
 
