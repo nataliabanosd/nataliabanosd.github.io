@@ -226,8 +226,8 @@ photos = [
 
 [colors]
 accent = ""       # e.g. "#c9401a"  (find codes at htmlcolorcodes.com)
-background = "FAF5E6"   # e.g. "#fffdf5"
-text = "EBDDC0"         # e.g. "#222222"
+background = "#FAF5E6"   # e.g. "#fffdf5"
+text = "#EBDDC0"         # e.g. "#222222"
 
 [fonts]
 # Any font from fonts.google.com — just write its name.
