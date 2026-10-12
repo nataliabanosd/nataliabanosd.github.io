@@ -101,6 +101,14 @@ footer = ""
 # ============================================================
 
 # ── Published stories: give them a url and they link out ────
+[[work]]
+title = "Sutter Health plan dominates City Council candidate forum"
+description = "While adding jobs, the development is poised to change the fabric of the small city. Some residents called it the most consequential decision facing the new council."
+url = "https://emeryvilletoday.com/2026/10/10/sutter-health-plan-dominates-city-council-candidate-forum/"
+image = "media/sutter.jpg"
+date = "October 2026"
+category = "Journalism"
+outlet = "Emeryville Today"
 
 [[work]]
 title = "A Cult-ural Exchange"
@@ -113,7 +121,7 @@ outlet = "Brown Political Review"
 
 [[work]]
 title = "Grief as Resistance"
-description = "State crimes continue to haunt Colombia, and the mothers of victims continue to fight for justice"
+description = "State crimes continue to haunt Colombia, and the mothers of victims continue to fight for justice."
 url = "https://brownpoliticalreview.org/grief-as-resistance-the-mothers-who-exposed-colombias-false-positives/"
 image = "media/falsospositivos.png"
 date = "November 2025"
