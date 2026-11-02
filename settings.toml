@@ -102,6 +102,16 @@ footer = ""
 
 # ── Published stories: give them a url and they link out ────
 [[work]]
+title = "Checklist for your Emeryville ballot"
+description = "Midterm elections are on Tuesday. For Emeryville’s voters, there are two City Council seats, three Emery Unified School District board positions, and two area measures that will impact residents: one city measure on business licenses and one regional measure to fund Bay Area transit."
+url = "https://emeryvilletoday.com/2026/11/01/checklist-for-your-emeryville-ballot/"
+image = "media/ballotboc.jpg"
+date = "November 2026"
+category = "Journalism"
+outlet = "Emeryville Today"
+
+
+[[work]]
 title = "Sutter Health plan dominates City Council candidate forum"
 description = "While adding jobs, the development is poised to change the fabric of the small city. Some residents called it the most consequential decision facing the new council."
 url = "https://emeryvilletoday.com/2026/10/10/sutter-health-plan-dominates-city-council-candidate-forum/"
