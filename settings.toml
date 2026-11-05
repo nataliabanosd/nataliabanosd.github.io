@@ -102,6 +102,24 @@ footer = ""
 
 # ── Published stories: give them a url and they link out ────
 [[work]]
+title = "Photo Gallery: Fans shower the champion Golden State Valkyries with love and gratitude at victory parade"
+description = "The Golden State Valkyries made history in becoming the fasting rising star in WNBA history when they won the league championship on Saturday."
+url = "https://oaklandnorth.net/2026/11/04/victory-parade-fans-shower-the-champion-golden-state-valkyries-with-love-and-gratitude/"
+image = "media/valkyries.jpg"
+date = "November 2026"
+category = "Journalism"
+outlet = "Oakland North"
+
+[[work]]
+title = "Election Day coverage: Reporting all day from Emeryville polls"
+description = "Emeryville voters woke up to a dreary Election Day forecast, but the rain did not dampen the spirit of those who decided to vote the old-fashioned way — in person."
+url = "https://emeryvilletoday.com/2026/11/03/election-day-coverage-reporting-all-day-from-emeryville-polls/"
+image = "media/Election.jpeg"
+date = "November 2026"
+category = "Journalism"
+outlet = "Emeryville Today"
+
+[[work]]
 title = "Checklist for your Emeryville ballot"
 description = "Midterm elections are on Tuesday. For Emeryville’s voters, there are two City Council seats, three Emery Unified School District board positions, and two area measures that will impact residents: one city measure on business licenses and one regional measure to fund Bay Area transit."
 url = "https://emeryvilletoday.com/2026/11/01/checklist-for-your-emeryville-ballot/"
